@@ -1,0 +1,507 @@
+year,reporter,trade_flow,partner,hs_code,commodity,unit_type,quantity,net_weight,cif_value,fob_value
+2023,Brazil,imported_from,Paraguay,020130,"Meat; of bovine animals, boneless cuts, fresh or chilled",kg,20859060.0,20859060.0,121449077,120517874.0
+2023,Brazil,imported_from,Paraguay,020220,"Meat; of bovine animals, cuts with bone in (excluding carcasses and half-carcasses), frozen",kg,52443.0,52443.0,142257,140643.0
+2023,Brazil,imported_from,Paraguay,020230,"Meat; of bovine animals, boneless cuts, frozen",kg,7144609.0,7144609.0,36526175,36218864.0
+2023,Brazil,imported_from,Paraguay,020622,"Offal, edible; of bovine animals, livers, frozen",kg,2692900.0,2692900.0,3173894,3053319.0
+2023,Brazil,imported_from,Paraguay,020629,"Offal, edible; of bovine animals, (other than tongues and livers), frozen",kg,978823.0,978823.0,2784282,2749729.0
+2023,Brazil,imported_from,Paraguay,020649,"Offal, edible; of swine, (other than livers), frozen",kg,75014.0,75014.0,76813,68066.0
+2023,Brazil,imported_from,Paraguay,040210,"Dairy produce; milk and cream, concentrated or containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content not exceeding 1.5% (by weight)",kg,1000000.0,1000000.0,3337004,3306695.0
+2023,Brazil,imported_from,Paraguay,040221,"Dairy produce; milk and cream, concentrated, not containing added sugar or other sweetening matter, in powder, granules or other solid forms, of a fat content exceeding 1.5% (by weight)",kg,13725000.0,13725000.0,48267821,47860007.0
+2023,Brazil,imported_from,Paraguay,050400,"Animal products; guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked",kg,1656059.0,1656059.0,11462213,11407851.0
+2023,Brazil,imported_from,Paraguay,051000,"Animal products; ambergris, castoreum, civet, musk, cantharides, bile (dried or not) glands and other animal products, for pharmaceutical purposes, fresh, chilled, frozen or otherwise provisionally preserved",kg,4150934.0,4150934.0,4816884,4639404.0
+2023,Brazil,imported_from,Paraguay,051199,Animal products; n.e.c. in chapter 5,kg,4692471.0,4692471.0,3305356,3045979.0
+2023,Brazil,imported_from,Paraguay,071333,"Vegetables, leguminous; kidney beans, including white pea beans (phaseolus vulgaris), shelled, whether or not skinned or split, dried",kg,1555009.0,1555009.0,1367587,1353719.0
+2023,Brazil,imported_from,Paraguay,080111,"Nuts, edible; coconuts, desiccated",kg,273437.0,273437.0,1013667,1008032.0
+2023,Brazil,imported_from,Paraguay,081400,"Peel; of citrus fruit or melons (including watermelons), fresh, frozen, dried or provisionally preserved in brine, in sulphur water and other preservative solutions",kg,106110.0,106110.0,169409,167038.0
+2023,Brazil,imported_from,Paraguay,090300,Mate,kg,1099929.0,1099929.0,1677884,1652259.0
+2023,Brazil,imported_from,Paraguay,100199,"Cereals; wheat and meslin, other than durum wheat, other than seed",kg,189338480.0,189338480.0,53404076,50990542.0
+2023,Brazil,imported_from,Paraguay,100490,"Cereals; oats, other than seed",kg,42650.0,42650.0,19133,17913.0
+2023,Brazil,imported_from,Paraguay,100590,"Cereals; maize (corn), other than seed",kg,1358283300.0,1358283300.0,285631340,268163875.0
+2023,Brazil,imported_from,Paraguay,100610,Cereals; rice in the husk (paddy or rough),kg,20032460.0,20032460.0,6417199,5872856.0
+2023,Brazil,imported_from,Paraguay,100620,Cereals; husked (brown) rice,kg,300029660.0,300029660.0,132618373,122610940.0
+2023,Brazil,imported_from,Paraguay,100630,"Cereals; rice, semi-milled or wholly milled, whether or not polished or glazed",kg,328369611.0,328369611.0,184194973,173861856.0
+2023,Brazil,imported_from,Paraguay,100640,"Cereals; rice, broken",kg,26138670.0,26138670.0,8766925,7834276.0
+2023,Brazil,imported_from,Paraguay,100790,"Cereals; grain sorghum, other than seed",kg,35347000.0,35347000.0,5299907,4947216.0
+2023,Brazil,imported_from,Paraguay,110100,Wheat or meslin flour,kg,12392975.0,12392975.0,6737956,6511738.0
+2023,Brazil,imported_from,Paraguay,110812,Starch; maize (corn) starch,kg,5711100.0,5711100.0,2509174,2485883.0
+2023,Brazil,imported_from,Paraguay,110814,Starch; manioc (cassava),kg,518400.0,518400.0,203850,202176.0
+2023,Brazil,imported_from,Paraguay,120190,"Soya beans; other than seed, whether or not broken",kg,164987000.0,164986708.0,81004474,78942522.0
+2023,Brazil,imported_from,Paraguay,120242,"Ground-nuts; other than seed, not roasted or otherwise cooked, shelled, whether or not broken,",kg,725000.0,725000.0,1367188,1333000.0
+2023,Brazil,imported_from,Paraguay,120510,"Oil seeds; low erucic acid rape or colza seeds, whether or not broken",kg,3476800.0,3476800.0,1515927,1416157.0
+2023,Brazil,imported_from,Paraguay,120590,"Oil seeds; rape or colza seeds, other than low erucic, whether or not broken",kg,124530.0,124530.0,104904,102364.0
+2023,Brazil,imported_from,Paraguay,120730,"Oil seeds; castor oil seeds, whether or not broken",kg,840000.0,840000.0,559980,551100.0
+2023,Brazil,imported_from,Paraguay,120740,"Oil seeds; sesamum seeds, whether or not broken",kg,327500.0,327500.0,482795,469174.0
+2023,Brazil,imported_from,Paraguay,120799,"Oil seeds and oleaginous fruits; n.e.c. in heading no. 1207, whether or not broken",kg,419053.0,419053.0,1079073,1054263.0
+2023,Brazil,imported_from,Paraguay,120890,Flours and meals of oil seeds or oleaginous fruits; excluding soya beans and mustard seeds,kg,6654.0,6654.0,26265,25728.0
+2023,Brazil,imported_from,Paraguay,121299,"Vegetable products; fit for human consumption, n.e.c. in heading no. 1212, fresh, chilled, frozen or dried, whether or not ground",kg,138460.0,138460.0,294202,289290.0
+2023,Brazil,imported_from,Paraguay,121300,"Cereal straw and husks; unprepared, whether or not chopped, ground, pressed or in the form of pellets",kg,8000.0,8000.0,310,160.0
+2023,Brazil,imported_from,Paraguay,150210,Tallow; other than those of heading 1503,kg,36926180.0,36926180.0,31595944,30489451.0
+2023,Brazil,imported_from,Paraguay,150710,"Vegetable oils; soya-bean oil and its fractions, crude, whether or not degummed, not chemically modified",kg,10845000.0,10844450.0,10786300,10469984.0
+2023,Brazil,imported_from,Paraguay,150790,"Vegetable oils; soya-bean oil and its fractions, other than crude, whether or not refined, but not chemically modified",kg,300000.0,300000.0,276000,270000.0
+2023,Brazil,imported_from,Paraguay,151411,"Vegetable oils; low erucic acid rape or colza oil and its fractions, crude",kg,7949770.0,7949770.0,8633804,8421017.0
+2023,Brazil,imported_from,Paraguay,151521,"Vegetable oils; maize (corn) oil and its fractions, crude, not chemically modified",kg,491776.0,491776.0,238361,228957.0
+2023,Brazil,imported_from,Paraguay,151590,"Fixed vegetable fats and oils and their fractions n.e.c. in heading 1515; other than linseed, maize (corn), castor, sesame, microbial oils, whether or not refined, but not chemically modified",kg,78270.0,78270.0,204190,198832.0
+2023,Brazil,imported_from,Paraguay,151800,"Animal, vegetable or microbial fats, oils and their fractions; boiled, oxidised, dehydrated or otherwise chemically modified, excluding those of heading no. 1516, inedible mixtures or preparations of fats, oils or their fractions, n.e.c. in chapter 15",kg,29750.0,29750.0,23705,23205.0
+2023,Brazil,imported_from,Paraguay,152000,"Glycerol, crude; glycerol waters and glycerol lyes",kg,60000.0,60000.0,4666,3150.0
+2023,Brazil,imported_from,Paraguay,190219,"Food preparations; pasta, uncooked (excluding that containing eggs), not stuffed or otherwise prepared",kg,2980.0,2980.0,2755,2400.0
+2023,Brazil,imported_from,Paraguay,190590,"Food preparations; bakers' wares n.e.c. in heading no. 1605, whether or not containing cocoa; communion wafers, empty cachets suitable for pharmaceutical use, sealing wafers, rice papers and similar products",kg,346667.0,346667.0,2295259,2258776.0
+2023,Brazil,imported_from,Paraguay,200891,"Fruit, palm hearts; prepared or preserved, whether or not containing added sugar, other sweetening matter or spirit",kg,5681.0,5681.0,23766,23624.0
+2023,Brazil,imported_from,Paraguay,200929,"Juice; grapefruit or pomelo, of a Brix value exceeding 20, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter",kg,44200.0,44200.0,129810,128210.0
+2023,Brazil,imported_from,Paraguay,210210,Yeasts; active,kg,7852476.0,7852476.0,7082429,6939360.0
+2023,Brazil,imported_from,Paraguay,210230,Baking powders; prepared,kg,473200.0,473200.0,933386,922817.0
+2023,Brazil,imported_from,Paraguay,210690,Food preparations; n.e.c. in item no. 2106.10,kg,592028.0,592028.0,1206085,1191818.0
+2023,Brazil,imported_from,Paraguay,220300,Beer; made from malt,l,435000.0,435600.0,134270,110620.0
+2023,Brazil,imported_from,Paraguay,220710,Undenatured ethyl alcohol; of an alcoholic strength by volume of 80% vol. or higher,l,59011910.0,46628050.0,38546747,36653795.0
+2023,Brazil,imported_from,Paraguay,230110,"Flours, meals and pellets; of meat or meat offal, greaves",kg,153630.0,153630.0,53789,50362.0
+2023,Brazil,imported_from,Paraguay,230210,"Bran, sharps and other residues; of maize (corn), whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",kg,19800000.0,19800000.0,5204110,5005400.0
+2023,Brazil,imported_from,Paraguay,230250,"Bran, sharps and other residues; of leguminous plants, whether or not in the form of pellets, derived from the sifting, milling or other workings thereof",kg,7762570.0,7762570.0,1016964,975613.0
+2023,Brazil,imported_from,Paraguay,230990,"Dog or cat food; (not put up for retail sale), used in animal feeding",kg,2500332.0,2500332.0,2360894,2302488.0
+2023,Brazil,imported_from,Paraguay,240110,"Tobacco, (not stemmed or stripped)",kg,40500.0,40500.0,48075,46575.0
+2023,Brazil,imported_from,Paraguay,240120,Tobacco; partly or wholly stemmed or stripped,kg,283920.0,283920.0,714600,709800.0
+2023,Brazil,imported_from,Paraguay,240311,"Tobacco; smoking, water pipe tobacco as specified in Subheading Note 1 to this Chapter, whether or not containing tobacco substitutes in any proportion",kg,650425.0,650425.0,1318855,1300849.0
+2023,Brazil,imported_from,Paraguay,251200,"Siliceous fossil meals (e.g. kieselguhr, tripolite and diatomite) and similar siliceous earths; whether or not calcined, of an apparent specific gravity of 1 or less",kg,1379500.0,1379500.0,245188,212121.0
+2023,Brazil,imported_from,Paraguay,261900,"Slag, dross; (other than granulated slag), scalings and other waste from the manufacture of iron or steel",kg,1467960.0,1467960.0,265991,221891.0
+2023,Brazil,imported_from,Paraguay,271600,Electrical energy,1000 kWh,5674389.713,,1058352228,1058352228.0
+2023,Brazil,imported_from,Paraguay,280110,Chlorine,kg,1804000.0,1804000.0,476889,423940.0
+2023,Brazil,imported_from,Paraguay,280440,Oxygen,m³,554190.0,735000.0,149669,99753.0
+2023,Brazil,imported_from,Paraguay,280610,Hydrogen chloride (hydrochloric acid),kg,918000.0,918000.0,193607,181764.0
+2023,Brazil,imported_from,Paraguay,281122,Silicon dioxide,kg,750000.0,750000.0,111000,55500.0
+2023,Brazil,imported_from,Paraguay,281512,Sodium hydroxide (caustic soda); in aqueous solution (soda lye or liquid soda),kg,405000.0,405000.0,83296,72846.0
+2023,Brazil,imported_from,Paraguay,290529,"Alcohols; acyclic, unsaturated monohydric, (other than acyclic terpene alcohols)",kg,6.0,6.0,2215,1800.0
+2023,Brazil,imported_from,Paraguay,290611,"Alcohols; cyclanic, cyclenic or cycloterpenic and derivatives, menthol",kg,58750.0,58750.0,1422947,1388082.0
+2023,Brazil,imported_from,Paraguay,291219,"Aldehydes; acyclic, without other oxygen function, n.e.c. in item no. 2912.1",kg,1.0,1.0,2055,2000.0
+2023,Brazil,imported_from,Paraguay,291539,Acids; saturated acyclic monocarboxylic acids; esters of acetic acid n.e.c. in item no. 2915.3,kg,311.0,311.0,14499,13599.0
+2023,Brazil,imported_from,Paraguay,291615,"Acids; unsaturated acyclic monocarboxylic acids; oleic, linoleic or linolenic acids, their salts and esters",kg,25610.0,25610.0,30572,29452.0
+2023,Brazil,imported_from,Paraguay,293299,"Heterocyclic compounds; with oxygen hetero-atom(s) only, no lactones or unfused furan rings in the structure, other than isosafrole, 1-(1,3-benzodiaxol-5-yl) propan-2-one, piperonal, safrole, tetrahydrocannabinols (all isomers), carbofuran (ISO)",kg,27000.0,27000.0,461365,452124.0
+2023,Brazil,imported_from,Paraguay,293339,"Heterocyclic compounds; containing an unfused pyridine ring (whether or not hydrogenated) in the structure, n.e.c. in 2933.3",kg,46.0,46.0,12,10.0
+2023,Brazil,imported_from,Paraguay,300212,"Blood, human or animal, antisera, other blood fractions and immunological products; antisera and other blood fractions",kg,92205.0,92205.0,415061,410563.0
+2023,Brazil,imported_from,Paraguay,300290,"Toxins, cultures of micro-organisms (excluding yeasts) and similar products",kg,11.0,11.0,3985,5.0
+2023,Brazil,imported_from,Paraguay,300420,"Medicaments; containing antibiotics (other than penicillins, streptomycins or their derivatives), for therapeutic or prophylactic uses, packaged for retail sale",kg,3521.0,3521.0,5266306,5214660.0
+2023,Brazil,imported_from,Paraguay,300510,"Dressings, adhesive; and other articles having an adhesive layer, packed for retail sale for medical, surgical, dental or veterinary purposes",kg,13569.0,13569.0,356036,354362.0
+2023,Brazil,imported_from,Paraguay,300590,"Wadding, gauze, bandages and similar articles; (excluding adhesive dressings), impregnated or coated with pharmaceutical substances, packaged for retail sale",kg,3139.0,3139.0,375203,374721.0
+2023,Brazil,imported_from,Paraguay,310290,"Fertilizers, mineral or chemical; nitrogenous, other kinds including mixtures not specified in the foregoing subheadings",kg,13025.0,13025.0,50605,50000.0
+2023,Brazil,imported_from,Paraguay,310490,"Fertilizers, mineral or chemical; potassic, n.e.c. in heading no. 3104",kg,29650.0,29650.0,111410,110000.0
+2023,Brazil,imported_from,Paraguay,310510,"Fertilizers, mineral or chemical; in tablets or similar forms or in packages of a gross weight not exceeding 10kg",kg,23306.0,23306.0,159547,158236.0
+2023,Brazil,imported_from,Paraguay,310590,"Fertilizers, mineral or chemical; n.e.c. in heading no. 3105",kg,51650.0,51650.0,213476,211943.0
+2023,Brazil,imported_from,Paraguay,320417,Dyes; pigments and preparations based thereon,kg,861935.0,861935.0,1383420,1374570.0
+2023,Brazil,imported_from,Paraguay,320820,"Paints and varnishes; based on acrylic or vinyl polymers, dispersed or dissolved in a non-aqueous medium",kg,3308.0,3308.0,50021,49620.0
+2023,Brazil,imported_from,Paraguay,321310,"Colours; in sets, of a kind used by artists, students or signboard painters",kg,78038.0,78038.0,135299,134599.0
+2023,Brazil,imported_from,Paraguay,321511,"Ink; for printing, black, whether or not concentrated or solid",kg,11118.0,11118.0,229424,228052.0
+2023,Brazil,imported_from,Paraguay,321519,"Ink; for printing, other than black, whether or not concentrated or solid",kg,45180.0,45180.0,972357,967014.0
+2023,Brazil,imported_from,Paraguay,330112,"Oils, essential; of orange (terpeneless or not), including concretes and absolutes",kg,7810.0,7810.0,408933,398542.0
+2023,Brazil,imported_from,Paraguay,330124,"Oils, essential; of peppermint (Mentha piperita), terpeneless or not, including concretes and absolutes",kg,2610.0,2610.0,100088,97928.0
+2023,Brazil,imported_from,Paraguay,330125,"Oils, essential; of mints (excluding peppermint), terpeneless or not, including concretes and absolutes",kg,90160.0,90160.0,1431692,1422862.0
+2023,Brazil,imported_from,Paraguay,330129,"Oils, essential; n.e.c. in heading no. 3301 (terpeneless or not), including concretes and absolutes",kg,29266.0,29266.0,606768,580334.0
+2023,Brazil,imported_from,Paraguay,330290,Odoriferous substances and mixtures; used as raw materials in industries other than the food or drink industries,kg,178.234,178.234,4080,3704.0
+2023,Brazil,imported_from,Paraguay,340111,"Soap and organic surface-active products; in the form of bars, cakes, moulded shapes, and paper, wadding, felt and nonwovens, impregnated, coated or covered with soap or detergent, for toilet use (including medicated products)",kg,3141330.0,3141330.0,8319088,8274844.0
+2023,Brazil,imported_from,Paraguay,340120,Soap; in forms n.e.c. in item no. 3401.11,kg,25340.0,25340.0,56607,55748.0
+2023,Brazil,imported_from,Paraguay,340242,"Organic surface-active agents; non-ionic (other than soap), whether or not put up for retail sale",kg,1188850.0,1188850.0,3058849,3035545.0
+2023,Brazil,imported_from,Paraguay,340600,"Candles, tapers and the like",kg,22649.0,22649.0,58321,57076.0
+2023,Brazil,imported_from,Paraguay,340700,"Modelling pastes; preparations known as dental wax, put up in sets, in packings for retail sale or in plates, horseshoe shapes, sticks or similar forms, other preparations for use in dentistry",kg,126056.0,126056.0,190211,189005.0
+2023,Brazil,imported_from,Paraguay,350300,"Gelatin (including gelatin in rectangular sheets, whether or not surface-worked or coloured) and gelatin derivatives; isinglass; other glues of animal origin, excluding casein glues of heading no. 3501",kg,22000.0,22000.0,163688,162903.0
+2023,Brazil,imported_from,Paraguay,350610,"Glues or adhesives; prepared, products suitable for use as glues or adhesives, put up for retail sale as glues or adhesives, not exceeding a net weight of 1kg",kg,71842.0,71842.0,187499,187036.0
+2023,Brazil,imported_from,Paraguay,350691,"Adhesives; prepared, based on polymers of heading 3901 to 3913 or on rubber",kg,37680.0,37680.0,58335,57235.0
+2023,Brazil,imported_from,Paraguay,380210,Carbon; activated,kg,140000.0,140000.0,72656,67860.0
+2023,Brazil,imported_from,Paraguay,380861,Insecticides and the like; containing goods specified in Subheading Note 2 to this Chapter; in packings of a net weight content not exceeding 300g; for retail sale or as preparations or articles,kg,8.297,8.297,127,90.0
+2023,Brazil,imported_from,Paraguay,380862,"Insecticides; containing goods specified in Subheading Note 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles, in packings of a net weight content exceeding 300g but not exceeding 7.5kg",kg,19377.0,19377.0,255784,254918.0
+2023,Brazil,imported_from,Paraguay,380869,"Insecticides; containing goods named in Subheading Note 2 to this Chapter, put up in forms or packings for retail sale or as preparations or articles, in packings of a net weight content exceeding 7.5kg",kg,2424654.0,2424654.0,26992358,26884027.0
+2023,Brazil,imported_from,Paraguay,380891,Insecticides; other than containing goods specified in Subheading Notes 1 & 2 to this Chapter; put up in forms or packings for retail sale or as preparations or articles,kg,1293488.0,1293488.0,9272439,9214556.0
+2023,Brazil,imported_from,Paraguay,380892,Fungicides; other than containing goods specified in Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles,kg,71197.0,71197.0,528330,524198.0
+2023,Brazil,imported_from,Paraguay,380893,"Herbicides, anti-sprouting products and plant-growth regulators; other than containing goods of Subheading Note 1 to this Chapter; put up in forms or packings for retail sale or as preparations or articles",kg,4441767.0,4441767.0,41679096,41495553.0
+2023,Brazil,imported_from,Paraguay,380899,"Rodenticides and other similar products n.e.c. in heading no. 3808.9; other than containing goods specified in Subheading Note 1 in this Chapter, put up in forms or packings for retail sale or as preparations or articles",kg,8.0,8.0,544,240.0
+2023,Brazil,imported_from,Paraguay,381400,"Solvents and thinners; organic composite solvents and thinners, n.e.c. or included, prepared paint or varnish removers",kg,12108.0,12108.0,157067,155688.0
+2023,Brazil,imported_from,Paraguay,382499,"Chemical products, mixtures and preparations; n.e.c. heading 3824",kg,108631.0,108631.0,404638,401139.0
+2023,Brazil,imported_from,Paraguay,390110,"Ethylene polymers; in primary forms, polyethylene having a specific gravity of less than 0.94",kg,523148.0,523148.0,63881,58591.0
+2023,Brazil,imported_from,Paraguay,390120,"Ethylene polymers; in primary forms, polyethylene having a specific gravity of 0.94 or more",kg,869365.0,869365.0,276164,263765.0
+2023,Brazil,imported_from,Paraguay,390190,"Ethylene polymers; in primary forms, n.e.c. in heading no. 3901",kg,25000.0,25000.0,32050,31650.0
+2023,Brazil,imported_from,Paraguay,390210,"Propylene, other olefin polymers; polypropylene in primary forms",kg,1694770.0,1694770.0,776186,757196.0
+2023,Brazil,imported_from,Paraguay,390311,"Styrene polymers; expansible polystyrene, in primary forms",kg,5100.0,5100.0,710,510.0
+2023,Brazil,imported_from,Paraguay,390319,"Styrene polymers; (other than expansible polystyrene), in primary forms",kg,12000.0,12000.0,2200,1800.0
+2023,Brazil,imported_from,Paraguay,390330,"Styrene polymers; acrylonitrile-butadiene-styrene (ABS) copolymers, in primary forms",kg,17875.0,17875.0,16890,16624.0
+2023,Brazil,imported_from,Paraguay,390421,"Vinyl chloride, other halogenated olefin polymers; non-plasticised poly(vinyl chloride), in primary forms, mixed with other substances",kg,5000.0,5000.0,9132,8900.0
+2023,Brazil,imported_from,Paraguay,390422,"Vinyl chloride, other halogenated olefin polymers; plasticised poly(vinyl chloride), in primary forms, mixed with other substances",kg,1117049.0,1117049.0,1559642,1523634.0
+2023,Brazil,imported_from,Paraguay,390430,"Vinyl chloride, other halogenated olefin polymers; vinyl chloride-vinyl acetate copolymers, in primary forms",kg,7000.0,7000.0,6054,5950.0
+2023,Brazil,imported_from,Paraguay,390769,"Poly(ethylene terephthalate); in primary forms, having a viscosity of less than 78ml/g",kg,6849055.0,6849055.0,3840102,3732686.0
+2023,Brazil,imported_from,Paraguay,390799,"Polyesters; n.e.c. in heading no. 3907, saturated, in primary forms",kg,6825.0,6825.0,1042,682.0
+2023,Brazil,imported_from,Paraguay,391000,Silicones; in primary forms,kg,275010.0,275010.0,1015432,991600.0
+2023,Brazil,imported_from,Paraguay,391530,"Vinyl chloride polymers; waste, parings and scrap",kg,42704.0,42704.0,24314,23437.0
+2023,Brazil,imported_from,Paraguay,391590,"Plastics n.e.c. in heading no. 3915; waste, parings and scrap",kg,141505.0,141505.0,18976,15049.0
+2023,Brazil,imported_from,Paraguay,391723,"Plastics; tubes, pipes and hoses thereof, rigid, of polymers of vinyl chloride",kg,1.0,1.0,30,30.0
+2023,Brazil,imported_from,Paraguay,391731,"Plastics; tubes, pipes and hoses thereof, flexible, having a minimum burst pressure of 27.6MPa",kg,8.411,8.411,712,309.0
+2023,Brazil,imported_from,Paraguay,391732,"Plastics; tubes, pipes and hoses thereof, other than those of item no. 3917.31, not reinforced or otherwise combined with other materials, without fittings",kg,164.107,164.107,5318,4072.0
+2023,Brazil,imported_from,Paraguay,391739,"Plastics; tubes, pipes and hoses thereof, n.e.c. in item no. 3917.30",kg,124.0,124.0,6678,3861.0
+2023,Brazil,imported_from,Paraguay,391740,"Plastics; tube, pipe and hose fittings (e.g. joints, elbows, flanges)",kg,97035.0,97035.0,304846,293700.0
+2023,Brazil,imported_from,Paraguay,391890,"Floor, wall or ceiling coverings; of plastics (excluding polymers of vinyl chloride), whether or not self-adhesive, in rolls or in the form of tiles",kg,79811.0,79811.0,351532,343727.0
+2023,Brazil,imported_from,Paraguay,391910,"Plastics; plates, sheets, film, foil, tape, strip, other flat shapes thereof, self-adhesive, in rolls of a width not exceeding 20cm",kg,83706.192,83706.192,1050800,1038099.0
+2023,Brazil,imported_from,Paraguay,391990,"Plastics; plates, sheets, film, foil, tape, strip, other flat shapes thereof, self-adhesive, other than in rolls of a width not exceeding 20cm",kg,157.651,157.651,554,547.0
+2023,Brazil,imported_from,Paraguay,392010,"Plastics; plates, sheets, film, foil and strip (not self-adhesive), of polymers of ethylene, non-cellular and not reinforced, laminated, supported or similarly combined with other materials",kg,56066.0,56066.0,84694,83748.0
+2023,Brazil,imported_from,Paraguay,392020,"Plastics; of polymers of propylene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",kg,1447641.0,1447641.0,2462549,2440831.0
+2023,Brazil,imported_from,Paraguay,392030,"Plastics; of polymers of styrene, plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",kg,823049.0,823049.0,1364561,1360741.0
+2023,Brazil,imported_from,Paraguay,392043,"Plastics; polymers of vinyl chloride, containing by weight not less than 6% of plasticisers; plates, sheets, film, foil and strip (not self-adhesive), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",kg,31441.0,31441.0,48803,46636.0
+2023,Brazil,imported_from,Paraguay,392062,"Plastics; plates, sheets, film, foil and strip (not self-adhesive), of poly(ethylene terephthalate), non-cellular and not reinforced, laminated, supported or similarly combined with other materials",kg,540906.0,540906.0,859380,847555.0
+2023,Brazil,imported_from,Paraguay,392112,"Plastics; plates, sheets, film, foil and strip, of polymers of vinyl chloride, cellular",kg,21517.0,21517.0,70166,69186.0
+2023,Brazil,imported_from,Paraguay,392190,"Plastics; plates, sheets, film, foil and strip, other than cellular",kg,104.0,104.0,385,335.0
+2023,Brazil,imported_from,Paraguay,392220,Plastics; lavatory seats and covers,kg,1579.0,1579.0,6008,5905.0
+2023,Brazil,imported_from,Paraguay,392310,"Plastics; boxes, cases, crates and similar articles for the conveyance or packing of goods",kg,26119.0,26119.0,44606,43923.0
+2023,Brazil,imported_from,Paraguay,392321,"Ethylene polymers; sacks and bags (including cones), for the conveyance or packing of goods",kg,115627.0,115627.0,142163,140492.0
+2023,Brazil,imported_from,Paraguay,392329,"Plastics; sacks and bags (including cones), for the conveyance or packing of goods, of plastics other than ethylene polymers",kg,2.476,2.476,17,1.0
+2023,Brazil,imported_from,Paraguay,392330,"Plastics; carboys, bottles, flasks and similar articles, for the conveyance or packing of goods",kg,21346039.0,21346039.0,37151705,36555868.0
+2023,Brazil,imported_from,Paraguay,392340,"Plastics; spools, cops, bobbins and similar supports, for the conveyance or packing of goods",kg,120.0,120.0,862,500.0
+2023,Brazil,imported_from,Paraguay,392350,"Plastics; stoppers, lids, caps and other closures, for the conveyance or packing of goods",kg,636116.0,636116.0,2535327,2474698.0
+2023,Brazil,imported_from,Paraguay,392390,Plastics; articles for the conveyance or packing of goods n.e.c. in heading no. 3923,kg,54665.0,54665.0,68491,67223.0
+2023,Brazil,imported_from,Paraguay,392410,Plastics; tableware and kitchenware,kg,430119.0,430119.0,1721594,1695560.0
+2023,Brazil,imported_from,Paraguay,392490,Plastics; household articles and hygienic or toilet articles,kg,1106971.0,1106971.0,2025175,1981661.0
+2023,Brazil,imported_from,Paraguay,392510,"Plastics; builders' ware, reservoirs, tanks, vats and similar containers of a capacity exceeding 300 litres",kg,19992.0,19992.0,68292,67992.0
+2023,Brazil,imported_from,Paraguay,392590,"Plastics; builders' ware, n.e.c. or included in heading no. 3925",kg,15452.0,15452.0,47365,46623.0
+2023,Brazil,imported_from,Paraguay,392620,"Plastics; articles of apparel and clothing accessories (including gloves, mittens and mitts)",kg,248113.0,248113.0,1261032,1250888.0
+2023,Brazil,imported_from,Paraguay,392690,Plastics; other articles n.e.c. in chapter 39,kg,44776.195,44776.195,251866,241943.0
+2023,Brazil,imported_from,Paraguay,400400,"Rubber; waste, parings and scrap of rubber (other than hard rubber) and powders and granules obtained therefrom",kg,6691270.0,6691270.0,304590,259714.0
+2023,Brazil,imported_from,Paraguay,400599,"Rubber; unvulcanised, (compounded other than with carbon black or silica), in primary forms, (other than plates, sheets, strip, solutions or dispersions)",kg,170.0,170.0,503,500.0
+2023,Brazil,imported_from,Paraguay,400911,"Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, not reinforced or otherwise combined with other materials, without fittings",kg,7.862,7.862,161,161.0
+2023,Brazil,imported_from,Paraguay,400912,"Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, not reinforced or otherwise combined with other materials, with fittings",kg,1.0,1.0,911,909.0
+2023,Brazil,imported_from,Paraguay,400942,"Rubber; vulcanised (other than hard rubber), tubing, piping and hoses, reinforced or otherwise combined with materials other than metal or textiles, with fittings",kg,5.629,5.629,167,167.0
+2023,Brazil,imported_from,Paraguay,401039,"Rubber; vulcanised, conveyor or transmission belts or belting, n.e.c. in heading no. 4010",kg,3.092,3.092,36,36.0
+2023,Brazil,imported_from,Paraguay,401390,"Rubber; inner tubes, n.e.c. in heading no. 4013",u,140190.0,62257.0,93037,92449.0
+2023,Brazil,imported_from,Paraguay,401610,"Rubber; vulcanised (other than hard rubber), moulded rubber mats and mats of non-rectangular shape made by cutting from the piece, of cellular rubber",kg,17.0,17.0,381,364.0
+2023,Brazil,imported_from,Paraguay,401693,"Rubber; vulcanised (other than hard rubber), gaskets, washers and other seals, of non-cellular rubber",kg,3725.421,3725.421,36380,34723.0
+2023,Brazil,imported_from,Paraguay,401699,"Rubber; vulcanised (other than hard rubber), articles n.e.c. in heading no. 4016, of non-cellular rubber",kg,142.0,142.0,9654,8841.0
+2023,Brazil,imported_from,Paraguay,410150,"Hides and skins; raw, whole, of bovine or equine animals, of a weight per skin exceeding 16 kg",kg,74570.0,74570.0,6657,5451.0
+2023,Brazil,imported_from,Paraguay,410411,"Tanned or crust hides and skins; without hair on, bovine or equine, in the wet state (including wet-blue), full grains, unsplit; grain splits",kg,1727913.0,1727913.0,1604270,1558495.0
+2023,Brazil,imported_from,Paraguay,410419,"Tanned or crust hides and skins; bovine or equine, without hair on, in the wet state (including wet-blue), excluding full grains, unsplit; grain splits",kg,165548.0,165548.0,129968,124055.0
+2023,Brazil,imported_from,Paraguay,410799,"Leather; further prepared after tanning or crusting, incl. parchment-dressed, of bovine (including buffalo) or equine animals, no hair, excluding leather of heading 41.14, and whole hides and skins, and sides, (full grains, unsplit and grain splits)",kg,53393.0,53393.0,233264,230903.0
+2023,Brazil,imported_from,Paraguay,420100,"Saddlery and harness; for any animal (including traces, leads, knee pads, muzzles, saddle cloths, saddle bags, dog coats and the like), of any materials",kg,41.0,41.0,3571,3311.0
+2023,Brazil,imported_from,Paraguay,420212,"Cases and containers; trunks, suit-cases, vanity-cases, executive-cases, brief-cases, school satchels and similar containers, with outer surface of plastics or of textile materials",u,3498.0,11301.0,79890,76873.0
+2023,Brazil,imported_from,Paraguay,420292,"Cases and containers; n.e.c. in heading 4202, with outer surface of sheeting of plastics or of textile materials",kg,19.0,19.0,1451,1331.0
+2023,Brazil,imported_from,Paraguay,420299,"Cases and containers; n.e.c. in heading 4202, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper",kg,898.0,898.0,2706,2473.0
+2023,Brazil,imported_from,Paraguay,420321,"Clothing accessories; gloves, mittens and mitts, specially designed for use in sports, of leather or composition leather, padded",kg,15.0,15.0,34,30.0
+2023,Brazil,imported_from,Paraguay,440290,"Wood; charcoal of wood other than bamboo, nut or shell, whether or not agglomerated",kg,18535954.0,18535954.0,2872614,2062632.0
+2023,Brazil,imported_from,Paraguay,440399,"Wood; in the rough, whether or not stripped of bark or sapwood, or roughly squared, untreated, n.e.c. in heading no. 4403",m³,273.0,331204.0,30886,29136.0
+2023,Brazil,imported_from,Paraguay,440729,"Wood, tropical, n.e.c. in item no. 4407.2, sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or finger-jointed, of a thickness exceeding 6mm",m³,251.0,215150.0,49729,47810.0
+2023,Brazil,imported_from,Paraguay,440799,"Wood; sawn or chipped lengthwise, sliced or peeled, of a thickness exceeding 6mm, whether or not planed, sanded or finger-jointed, n.e.c. in heading no. 4407",m³,851.0,588042.0,384526,377022.0
+2023,Brazil,imported_from,Paraguay,440839,"Wood, of tropical wood; as in Subheading note 2 to this Chapter, n.e.c. in heading no. 4408.31, sheets for veneer or plywood, other wood sawn length wise, sliced or peeled, whether or not planed, sanded or end-jointed, not thicker than 6mm",kg,97719.0,97719.0,29695,28447.0
+2023,Brazil,imported_from,Paraguay,440890,"Wood; n.e.c. in heading no. 4408, sheets for veneer or plywood, other wood sawn lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, not exceeding 6mm in thickness",kg,2052292.0,2052292.0,1195458,1136535.0
+2023,Brazil,imported_from,Paraguay,440910,"Wood; coniferous (including unassembled strips and friezes for parquet flooring), continuously shaped along any edges, ends or faces, whether or not planed, sanded or end-jointed",kg,348.0,348.0,89,84.0
+2023,Brazil,imported_from,Paraguay,440929,"Wood; non-coniferous, other than bamboo or tropical wood, (including unassembled strips and friezes for parquet flooring), continuously shaped along any edges, ends or faces, whether or not planed, sanded or end-jointed",kg,27779.0,27779.0,14391,13855.0
+2023,Brazil,imported_from,Paraguay,441233,"Plywood; with sheets of wood only; not bamboo; each ply 6mm or less, with at least one outer ply of alder, ash, beech, birch, cherry, chestnut, elm, eucalyptus, hickory, horse chestnut, lime, maple, oak, plane, poplar, aspen, robinia, tulipwood or walnut",m³,628.0,415019.0,171835,162984.0
+2023,Brazil,imported_from,Paraguay,441234,"Plywood; consisting only of sheets of wood (not bamboo), each ply 6mm or thinner, with at least one outer ply of non-coniferous wood not listed in subheading 4412.33",m³,4.0,2423.0,1099,1083.0
+2023,Brazil,imported_from,Paraguay,441239,"Plywood; consisting only of sheets of wood (not bamboo), each ply 6mm or thinner, with both outer plies of coniferous wood",m³,10.0,7783.0,5448,5048.0
+2023,Brazil,imported_from,Paraguay,441299,"Plywood; n.e.c. in heading 4412, with both outer plies of coniferous wood",kg,48119.0,48119.0,24517,23920.0
+2023,Brazil,imported_from,Paraguay,441700,"Wood; tools, tool bodies, tool handles, broom or brush bodies and handles, boot and shoe lasts and trees, of wood",kg,11782.0,11782.0,17103,16962.0
+2023,Brazil,imported_from,Paraguay,441829,"Wood; doors and their frames and thresholds, (of other than tropical wood)",kg,49564.0,49564.0,27826,25163.0
+2023,Brazil,imported_from,Paraguay,441875,"Wood; assembled flooring panels, not of bamboo or with at least the top layer (wear layer) of bamboo, multilayer",kg,35680.0,35680.0,134830,132265.0
+2023,Brazil,imported_from,Paraguay,470790,"Paper or paperboard; waste and scrap, of paper or paperboard n.e.c. in heading no. 4707 and of unsorted waste and scrap",kg,2055900.0,2055900.0,163298,146793.0
+2023,Brazil,imported_from,Paraguay,480592,"Paper and paperboard; uncoated, weight more than 150g/m2 but less than 225 g/m2, in rolls or sheets, n.e.c. in heading no. 4805",kg,24466530.0,24466530.0,21760052,20972714.0
+2023,Brazil,imported_from,Paraguay,481310,"Paper, cigarette; in the form of booklets or tubes",kg,351666.0,351666.0,755324,746520.0
+2023,Brazil,imported_from,Paraguay,481910,"Paper and paperboard; cartons, boxes and cases, of corrugated paper or paperboard",kg,2431.0,2431.0,2734,2692.0
+2023,Brazil,imported_from,Paraguay,481920,"Paper and paperboard; folding cartons, boxes and cases, of non-corrugated paper or paperboard",kg,2390.0,2390.0,7571,7439.0
+2023,Brazil,imported_from,Paraguay,482110,"Paper and paperboard; labels or all kinds, printed",kg,24024.0,24024.0,132782,131321.0
+2023,Brazil,imported_from,Paraguay,482190,"Paper and paperboard; labels of all kinds, unprinted",kg,10.045,10.045,40,
+2023,Brazil,imported_from,Paraguay,500300,"Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)",kg,340.0,340.0,15297,14960.0
+2023,Brazil,imported_from,Paraguay,520100,Cotton; not carded or combed,,0.0,24557.0,45935,44935.0
+2023,Brazil,imported_from,Paraguay,520922,"Fabrics, woven; containing 85% or more by weight of cotton, bleached, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",kg,4185.0,4185.0,30142,29851.0
+2023,Brazil,imported_from,Paraguay,520932,"Fabrics, woven; containing 85% or more by weight of cotton, dyed, 3-thread or 4-thread twill, including cross twill, weighing more than 200g/m2",kg,16443.0,16443.0,125944,124787.0
+2023,Brazil,imported_from,Paraguay,530929,"Fabrics, woven; of flax, containing less than 85% flax, other than unbleached or bleached",kg,1084.0,1084.0,14770,14661.0
+2023,Brazil,imported_from,Paraguay,540248,"Yarn, synthetic; filament, monofilament (less than 67 decitex), of polypropylene (not high tenacity or textured), single, untwisted or twisted 50 turns or less per metre, not for retail sale, not sewing thread",kg,9680.0,9680.0,20073,19755.0
+2023,Brazil,imported_from,Paraguay,540419,Monofilament n.e.c. in heading no 5404; of 67 decitex or more and of which no cross-sectional dimension exceeds 1mm,kg,3454.0,3454.0,29977,29717.0
+2023,Brazil,imported_from,Paraguay,540710,"Fabrics, woven; from high tenacity yarn, of nylon, other polyamides or of polyesters",kg,625561.0,625561.0,2545812,2526282.0
+2023,Brazil,imported_from,Paraguay,540720,"Fabrics, woven; from strip or the like, of synthetic textile materials",kg,3450716.0,3450716.0,6706172,6595417.0
+2023,Brazil,imported_from,Paraguay,550320,"Fibres; synthetic staple fibres, of polyesters, not carded, combed or otherwise processed for spinning",kg,170962.0,170962.0,72260,68385.0
+2023,Brazil,imported_from,Paraguay,550390,"Fibres; synthetic staple fibres, of synthetic materials n.e.c. in heading no. 5503, not carded, combed or otherwise processed for spinning",kg,143550.0,143550.0,536943,530943.0
+2023,Brazil,imported_from,Paraguay,551511,"Fabrics, woven; of polyester staple fibres n.e.c. in chapter 55, mixed mainly or solely with viscose rayon staple fibres",kg,21438.0,21438.0,56523,55418.0
+2023,Brazil,imported_from,Paraguay,560122,"Wadding; other articles thereof, of man-made fibres",kg,485056.0,485056.0,3868132,3826423.0
+2023,Brazil,imported_from,Paraguay,560311,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing not more than 25g/m2)",kg,1217988.0,1217988.0,2345979,2315384.0
+2023,Brazil,imported_from,Paraguay,560312,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",kg,4240917.0,4240917.0,8126746,8034945.0
+2023,Brazil,imported_from,Paraguay,560313,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",kg,1044778.0,1044778.0,2062587,2033692.0
+2023,Brazil,imported_from,Paraguay,560314,"Nonwovens; whether or not impregnated, coated, covered or laminated, of man-made filaments, (weighing more than 150g/m2)",kg,116297.0,116297.0,238417,234888.0
+2023,Brazil,imported_from,Paraguay,560392,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 25g/m2 but not more than 70g/m2)",kg,417027.0,417027.0,1001079,985554.0
+2023,Brazil,imported_from,Paraguay,560393,"Nonwovens; whether or not impregnated, coated, covered or laminated, not of man-made filaments, (weighing more than 70g/m2 but not more than 150g/m2)",kg,96510.0,96510.0,220992,208489.0
+2023,Brazil,imported_from,Paraguay,560490,"Yarn; textile yarn, strip, and the like of heading no. 5404 or 5405, impregnated, coated, covered, or sheathed with rubber or plastics, n.e.c. in heading no. 5604",kg,2017.0,2017.0,9377,9326.0
+2023,Brazil,imported_from,Paraguay,560749,"Twine, cordage, ropes, cables; of polyethylene or polypropylene (excluding binder or baler twine), whether or not plaited, braided or rubber or plastic impregnated, coated, covered or sheathed",kg,103538.0,103538.0,456720,452079.0
+2023,Brazil,imported_from,Paraguay,560750,"Twine, cordage, ropes, cables; of synthetic fibres other than polyethylene or polypropylene, whether or not plaited, braided or impregnated, coated, covered or sheathed with rubber or plastics",kg,212352.0,212352.0,633162,626439.0
+2023,Brazil,imported_from,Paraguay,560890,"Twine, cordage or rope; knotted netting, of other than man-made textiles",kg,514.0,514.0,2368,2328.0
+2023,Brazil,imported_from,Paraguay,560900,"Yarn; articles of yarn, strip or the like of heading no. 5404 and 5405, twine, cordage, rope or cables n.e.c. or included",kg,12504.0,12504.0,30903,30290.0
+2023,Brazil,imported_from,Paraguay,570331,"Carpets and other textile floor coverings; tufted, of other man-made textile materials (other than polyamides), whether or not made up",m²,219220.0,420324.0,1788138,1737720.0
+2023,Brazil,imported_from,Paraguay,570500,"Carpets and other textile floor coverings; n.e.c. in chapter 57, whether or not made up",m²,4006933.0,2102946.0,10018226,9965733.0
+2023,Brazil,imported_from,Paraguay,580210,"Fabrics; terry towelling and similar woven terry fabrics, of cotton, whether bleached or unbleached, excluding narrow fabrics of heading no. 5806",kg,7.0,7.0,107,107.0
+2023,Brazil,imported_from,Paraguay,580620,"Fabrics; narrow (excluding pile fabrics), containing by weight 5% or more of elastomeric yarn or rubber thread",kg,26248.0,26248.0,173046,172346.0
+2023,Brazil,imported_from,Paraguay,580632,"Fabrics, narrow woven fabrics, n.e.c. in heading no. 5806, of man-made fibres (excluding goods of heading no. 5807)",kg,136374.0,136374.0,275918,266844.0
+2023,Brazil,imported_from,Paraguay,580639,"Fabrics; narrow woven fabrics, n.e.c. in heading no. 5806, of textile materials n.e.c. in item no. 5806.3 (excluding goods of heading no. 5807)",kg,244730.0,244730.0,485240,474331.0
+2023,Brazil,imported_from,Paraguay,581100,"Quilted textile products; in the piece, composed of one or more layers of textile materials assembled with padding by stitching or otherwise (excluding embroidery of heading no. 5810)",kg,76641.0,76641.0,301625,298323.0
+2023,Brazil,imported_from,Paraguay,590190,"Textile fabrics; coated with gum or amylaceous substances, tracing cloth, prepared painting canvas, buckram and similar stiffened textile fabrics for hat foundations, (excluding book covers)",kg,84.0,84.0,575,375.0
+2023,Brazil,imported_from,Paraguay,590310,"Textile fabrics; impregnated, coated, covered or laminated with poly(vinyl chloride)",kg,270712.0,270712.0,521095,516182.0
+2023,Brazil,imported_from,Paraguay,590320,"Textile fabrics; impregnated, coated, covered or laminated with polyurethane",kg,294144.0,294144.0,1303919,1297715.0
+2023,Brazil,imported_from,Paraguay,590610,"Textile fabrics, rubberised; (excluding those of heading no. 5902), adhesive tape of a width not exceeding 20cm",kg,3.0,3.0,259,250.0
+2023,Brazil,imported_from,Paraguay,590900,"Textile hosepiping and similar textile tubing; with or without lining, armour or accessories of other materials",kg,91.373,91.373,2131,1382.0
+2023,Brazil,imported_from,Paraguay,591190,Textile products and articles for technical uses; n.e.c. in heading no. 5911,kg,5.0,5.0,161,86.0
+2023,Brazil,imported_from,Paraguay,600110,"Fabrics; long pile fabrics, knitted or crocheted",kg,112762.0,112762.0,284589,283114.0
+2023,Brazil,imported_from,Paraguay,600410,"Fabrics; knitted or crocheted fabrics of a width exceeding 30 cm, other than those of heading 60.01, containing by weight 5% or more of elastomeric yarn but not containing rubber thread",kg,1641791.0,1641791.0,10206193,10160012.0
+2023,Brazil,imported_from,Paraguay,600621,"Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of cotton, unbleached or bleached",kg,16346.0,16346.0,143798,143638.0
+2023,Brazil,imported_from,Paraguay,600622,"Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of cotton, dyed",kg,139690.0,139690.0,649673,642560.0
+2023,Brazil,imported_from,Paraguay,600623,"Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of cotton, of yarns of different colours",kg,19932.0,19932.0,99233,98677.0
+2023,Brazil,imported_from,Paraguay,600631,"Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of synthetic fibres, unbleached or bleached",kg,43760.0,43760.0,101488,101088.0
+2023,Brazil,imported_from,Paraguay,600632,"Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of synthetic fibres, dyed",kg,119547.0,119547.0,365264,358668.0
+2023,Brazil,imported_from,Paraguay,600641,"Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, unbleached or bleached",kg,426869.0,426869.0,2532616,2520703.0
+2023,Brazil,imported_from,Paraguay,600642,"Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, dyed",kg,1780303.0,1780303.0,10470603,10419547.0
+2023,Brazil,imported_from,Paraguay,600643,"Fabrics; knitted or crocheted fabrics, other than those of headings 60.01 to 60.04, of artificial fibres, of yarns of different colours",kg,122659.0,122659.0,750999,747383.0
+2023,Brazil,imported_from,Paraguay,610130,"Coats; men's or boys' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted, (excluding those of heading no. 6103)",u,8131.0,3204.0,67118,67070.0
+2023,Brazil,imported_from,Paraguay,610210,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of wool or fine animal hair, knitted or crocheted (excluding those of heading no. 6104)",u,4898.0,3244.0,46389,46329.0
+2023,Brazil,imported_from,Paraguay,610220,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of cotton, knitted or crocheted (excluding those of heading no. 6104)",u,1147.0,610.0,5172,5140.0
+2023,Brazil,imported_from,Paraguay,610230,"Coats; women's or girls' overcoats, car-coats, capes, anoraks, wind-jackets and similar articles, of man-made fibres, knitted or crocheted (excluding those of heading no. 6104)",u,496712.0,180905.0,2562088,2554818.0
+2023,Brazil,imported_from,Paraguay,610342,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of cotton, knitted or crocheted",u,3226.0,495.0,15314,15307.0
+2023,Brazil,imported_from,Paraguay,610429,"Ensembles; women's or girls', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",u,1200.0,730.0,6847,6809.0
+2023,Brazil,imported_from,Paraguay,610433,"Jackets; women's or girls', of synthetic fibres, knitted or crocheted",u,828.0,313.0,6599,6541.0
+2023,Brazil,imported_from,Paraguay,610442,"Dresses; women's or girls', of cotton, knitted or crocheted",u,58006.0,10814.0,325869,318215.0
+2023,Brazil,imported_from,Paraguay,610443,"Dresses; women's or girls', of synthetic fibres, knitted or crocheted",u,137664.0,34610.0,571667,566798.0
+2023,Brazil,imported_from,Paraguay,610444,"Dresses; women's or girls', of artificial fibres, knitted or crocheted",u,21605.0,4747.0,99660,99579.0
+2023,Brazil,imported_from,Paraguay,610453,"Skirts and divided skirts; women's or girls', of synthetic fibres, knitted or crocheted",u,26772.0,6472.0,91919,91448.0
+2023,Brazil,imported_from,Paraguay,610459,"Skirts and divided skirts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",u,44559.0,15291.0,263802,262095.0
+2023,Brazil,imported_from,Paraguay,610462,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of cotton, knitted or crocheted",u,7167.0,889.0,11058,11032.0
+2023,Brazil,imported_from,Paraguay,610463,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of synthetic fibres, knitted or crocheted",u,830600.0,202149.0,2706620,2699124.0
+2023,Brazil,imported_from,Paraguay,610469,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool or fine animal hair, cotton or synthetic fibres), knitted or crocheted",u,45652.0,8480.0,191386,190915.0
+2023,Brazil,imported_from,Paraguay,610510,"Shirts; men's or boys', of cotton, knitted or crocheted",u,100884.0,17141.0,275804,272387.0
+2023,Brazil,imported_from,Paraguay,610610,"Blouses, shirts and shirt-blouses; women's or girls', of cotton, knitted or crocheted",u,322032.0,32753.0,743430,738051.0
+2023,Brazil,imported_from,Paraguay,610620,"Blouses, shirts and shirt-blouses; women's or girls', of man-made fibres, knitted or crocheted",u,2065453.0,269010.0,5748120,5712618.0
+2023,Brazil,imported_from,Paraguay,610712,"Underpants and briefs; men's or boys', of man-made fibres, knitted or crocheted",u,19349260.0,951010.0,8859441,8845496.0
+2023,Brazil,imported_from,Paraguay,610821,"Briefs and panties; women's or girls', of cotton, knitted or crocheted",u,288000.0,7652.0,192296,192096.0
+2023,Brazil,imported_from,Paraguay,610822,"Briefs and panties; women's or girls', of man-made fibres, knitted or crocheted",u,8356800.0,195399.0,4414956,4410956.0
+2023,Brazil,imported_from,Paraguay,610831,"Nightdresses and pyjamas; women's or girls', of cotton, knitted or crocheted",u,1713.0,341.0,4562,4544.0
+2023,Brazil,imported_from,Paraguay,610832,"Nightdresses and pyjamas; women's or girls', of man-made fibres, knitted or crocheted",u,822.0,283.0,3553,3538.0
+2023,Brazil,imported_from,Paraguay,610839,"Nightdresses and pyjamas; women's or girls', of textile materials (other than cotton or man-made fibres), knitted or crocheted",u,1516.0,572.0,6393,6363.0
+2023,Brazil,imported_from,Paraguay,610892,"Negligees, bathrobes, dressing gowns and similar articles; women's or girls', of man-made fibres, knitted or crocheted",u,4696.0,2286.0,17072,16982.0
+2023,Brazil,imported_from,Paraguay,610910,"T-shirts, singlets and other vests; of cotton, knitted or crocheted",u,658.0,108.0,2599,2324.0
+2023,Brazil,imported_from,Paraguay,610990,"T-shirts, singlets and other vests; of textile materials (other than cotton), knitted or crocheted",u,376081.0,51343.0,676168,674469.0
+2023,Brazil,imported_from,Paraguay,611030,"Jerseys, pullovers, cardigans, waistcoats and similar articles; of man-made fibres, knitted or crocheted",u,18530.0,7304.0,129678,129562.0
+2023,Brazil,imported_from,Paraguay,611120,"Garments and clothing accessories; babies', of cotton, knitted or crocheted",kg,337.0,337.0,15027,15020.0
+2023,Brazil,imported_from,Paraguay,611190,"Garments and clothing accessories; babies', of textile materials (other than cotton or synthetic fibres), knitted or crocheted",kg,539.0,539.0,18975,18961.0
+2023,Brazil,imported_from,Paraguay,611231,"Swimwear; men's or boys', of synthetic fibres, knitted or crocheted",u,5214.0,2187.0,24297,23992.0
+2023,Brazil,imported_from,Paraguay,611595,"Hosiery and footwear; without applied soles, of cotton, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",kg,1245723.0,1245723.0,16823148,16772599.0
+2023,Brazil,imported_from,Paraguay,611596,"Hosiery and footwear; without applied soles, of synthetic fibres, knitted or crocheted (excluding graduated compression hosiery, panty hose, tights, full or knee-length hosiery measuring per single yarn less than 67 decitex)",kg,2678908.0,2678908.0,18123068,18083486.0
+2023,Brazil,imported_from,Paraguay,620120,"Coats; men's or boys', overcoats, raincoats, car-coats, capes, cloaks, anoraks (including ski-jackets) and similar articles, of wool or fine animal hair, other than those of heading no. 6203 (not knitted or crocheted)",u,7025.0,4382.0,65193,65121.0
+2023,Brazil,imported_from,Paraguay,620130,"Coats; men's or boys', overcoats, raincoats, car-coats, capes, cloaks, anoraks (including ski-jackets) and similar articles, of cotton, other than those of heading no. 6203 (not knitted or crocheted)",u,4942.0,1716.0,38672,38535.0
+2023,Brazil,imported_from,Paraguay,620140,"Coats; men's or boys', overcoats, raincoats, car-coats, capes, cloaks, anoraks (including ski-jackets) and similar articles, of man-made fibres, other than those of heading no. 6203 (not knitted or crocheted)",u,28795.0,12130.0,308818,307975.0
+2023,Brazil,imported_from,Paraguay,620220,"Coats; women's or girls', overcoats, raincoats, car-coats, capes, cloaks anoraks (including ski-jackets) and similar articles, of wool or fine animal hair, other than those of heading no. 6204 (not knitted or crocheted)",u,4887.0,2516.0,39562,39520.0
+2023,Brazil,imported_from,Paraguay,620230,"Coats; women's or girls', overcoats, raincoats, car-coats, capes, cloaks anoraks (including ski-jackets) and similar articles, of cotton, other than those of heading no. 6204 (not knitted or crocheted)",u,24554.0,14383.0,206935,205484.0
+2023,Brazil,imported_from,Paraguay,620240,"Coats; women's or girls', overcoats, raincoats, car-coats, capes, cloaks anoraks (including ski-jackets) and similar articles, of man-made fibres, other than those of heading no. 6204 (not knitted or crocheted)",u,296987.0,92034.0,1690726,1685904.0
+2023,Brazil,imported_from,Paraguay,620290,"Coats; women's or girls', overcoats, raincoats, car-coats, capes, cloaks and similar articles, of textile materials (other than wool, fine animal hair, cotton or man-made fibres), other than those of heading no. 6204 (not knitted or crocheted)",u,753.0,191.0,2579,2560.0
+2023,Brazil,imported_from,Paraguay,620332,"Jackets and blazers; men's or boys', of cotton (not knitted or crocheted)",u,5227.0,5932.0,70462,69400.0
+2023,Brazil,imported_from,Paraguay,620342,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of cotton (not knitted or crocheted)",u,824697.0,323429.0,5905392,5847115.0
+2023,Brazil,imported_from,Paraguay,620343,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of synthetic fibres (not knitted or crocheted)",u,339201.0,20422.0,395671,394950.0
+2023,Brazil,imported_from,Paraguay,620349,"Trousers, bib and brace overalls, breeches and shorts; men's or boys', of textile materials (other than wool, fine animal hair, cotton or synthetic fibres), (not knitted or crocheted)",u,5005.0,981.0,35105,35084.0
+2023,Brazil,imported_from,Paraguay,620422,"Ensembles; women's or girls', of cotton (not knitted or crocheted)",u,997.0,544.0,4946,4852.0
+2023,Brazil,imported_from,Paraguay,620429,"Ensembles; women's or girls', of textile materials n.e.c. in item no. 6204.2 (not knitted or crocheted)",u,624.0,330.0,2927,2870.0
+2023,Brazil,imported_from,Paraguay,620432,"Jackets and blazers; women's or girls', of cotton (not knitted or crocheted)",u,2481.0,1493.0,21633,21389.0
+2023,Brazil,imported_from,Paraguay,620433,"Jackets and blazers; women's or girls', of synthetic fibres (not knitted or crocheted)",u,4737.0,485.0,20960,20900.0
+2023,Brazil,imported_from,Paraguay,620439,"Jackets and blazers; women's or girls', of textile materials n.e.c. in item no. 6204.3 (not knitted or crocheted)",u,565.0,136.0,2960,2934.0
+2023,Brazil,imported_from,Paraguay,620442,"Dresses; women's or girls', of cotton (not knitted or crocheted)",u,70417.0,18200.0,395410,393943.0
+2023,Brazil,imported_from,Paraguay,620443,"Dresses; women's or girls', of synthetic fibres (not knitted or crocheted)",u,98144.0,24782.0,479918,479317.0
+2023,Brazil,imported_from,Paraguay,620444,"Dresses; women's or girls', of artificial fibres (not knitted or crocheted)",u,564196.0,161258.0,4344934,4314459.0
+2023,Brazil,imported_from,Paraguay,620449,"Dresses; women's or girls', of textile materials n.e.c. in item no. 6204.4 (not knitted or crocheted)",u,3093.0,1254.0,18329,18182.0
+2023,Brazil,imported_from,Paraguay,620452,"Skirts and divided skirts; women's or girls', of cotton (not knitted or crocheted)",u,43063.0,19672.0,286125,282859.0
+2023,Brazil,imported_from,Paraguay,620453,"Skirts and divided skirts; women's or girls', of synthetic fibres (not knitted or crocheted)",u,25138.0,3901.0,80421,80256.0
+2023,Brazil,imported_from,Paraguay,620459,"Skirts and divided skirts; women's or girls', of textile materials n.e.c. in item no. 6204.5 (not knitted or crocheted)",u,18365.0,4824.0,132569,131976.0
+2023,Brazil,imported_from,Paraguay,620462,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of cotton (not knitted or crocheted)",u,973476.0,397188.0,6166786,6113206.0
+2023,Brazil,imported_from,Paraguay,620463,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of synthetic fibres (not knitted or crocheted)",u,362991.0,54781.0,934510,932788.0
+2023,Brazil,imported_from,Paraguay,620469,"Trousers, bib and brace overalls, breeches and shorts; women's or girls', of textile materials (other than wool, fine animal hair, cotton or synthetic fibres), (not knitted or crocheted)",u,426279.0,118043.0,2862324,2852510.0
+2023,Brazil,imported_from,Paraguay,620520,"Shirts; men's or boys', of cotton (not knitted or crocheted)",u,70757.0,10198.0,504397,503387.0
+2023,Brazil,imported_from,Paraguay,620530,"Shirts; men's or boys', of man-made fibres (not knitted or crocheted)",u,80785.0,14220.0,488584,487703.0
+2023,Brazil,imported_from,Paraguay,620590,"Shirts; men's or boys', of textile materials n.e.c. in heading no. 6205 (not knitted or crocheted)",u,24316.0,3676.0,211029,210705.0
+2023,Brazil,imported_from,Paraguay,620630,"Blouses, shirts and shirt-blouses; women's or girls', of cotton (not knitted or crocheted)",u,65086.0,11152.0,399953,393494.0
+2023,Brazil,imported_from,Paraguay,620640,"Blouses, shirts and shirt-blouses; women's or girls', of man-made fibres (not knitted or crocheted)",u,1076427.0,172799.0,5504828,5486673.0
+2023,Brazil,imported_from,Paraguay,620690,"Blouses, shirts and shirt-blouses; women's or girls', of textile materials n.e.c. in heading no. 6206 (not knitted or crocheted)",u,3010.0,546.0,13706,13544.0
+2023,Brazil,imported_from,Paraguay,620822,"Nightdresses and pyjamas; women's or girls', of man-made fibres (not knitted or crocheted)",u,4591.0,1861.0,19368,19147.0
+2023,Brazil,imported_from,Paraguay,620920,"Garments and clothing accessories; babies', of cotton (not knitted or crocheted)",kg,3316.0,3316.0,135467,135264.0
+2023,Brazil,imported_from,Paraguay,620930,"Garments and clothing accessories; babies', of synthetic fibres (not knitted or crocheted)",kg,177.0,177.0,12886,12881.0
+2023,Brazil,imported_from,Paraguay,620990,"Garments and clothing accessories; babies', of textile materials other than cotton or synthetic fibres (not knitted or crocheted)",kg,822.0,822.0,29713,29696.0
+2023,Brazil,imported_from,Paraguay,621010,Garments; of felt or non-wovens (not knitted or crocheted),kg,372106.0,372106.0,1426680,1416655.0
+2023,Brazil,imported_from,Paraguay,621143,"Track suits and other garments n.e.c.; women's or girls', of man-made fibres (not knitted or crocheted)",kg,994.0,994.0,37593,35553.0
+2023,Brazil,imported_from,Paraguay,630140,Blankets (other than electric blankets) and travelling rugs; of synthetic fibres,kg,9881177.0,9881177.0,34789855,34500009.0
+2023,Brazil,imported_from,Paraguay,630210,Bed linen; knitted or crocheted,kg,28447.0,28447.0,149407,148089.0
+2023,Brazil,imported_from,Paraguay,630221,"Bed linen; of cotton, printed, not knitted or crocheted",kg,526114.0,526114.0,4540427,4519057.0
+2023,Brazil,imported_from,Paraguay,630222,"Bed linen; of man-made fibres, printed, not knitted or crocheted",kg,724701.0,724701.0,3194925,3174170.0
+2023,Brazil,imported_from,Paraguay,630231,"Bed linen; of cotton (not printed, knitted or crocheted)",kg,89411.0,89411.0,1496601,1487712.0
+2023,Brazil,imported_from,Paraguay,630232,"Bed linen; of man-made fibres (not printed, knitted or crocheted)",kg,160572.0,160572.0,897443,889853.0
+2023,Brazil,imported_from,Paraguay,630239,"Bed linen; of textile materials other than cotton or man-made fibres (not printed, knitted or crocheted)",kg,115.0,115.0,6974,6956.0
+2023,Brazil,imported_from,Paraguay,630260,"Kitchen and toilet linen; of terry towelling or similar terry fabrics, of cotton",kg,593959.0,593959.0,3667504,3644698.0
+2023,Brazil,imported_from,Paraguay,630293,Toilet and kitchen linen; of man-made fibres,kg,46539.0,46539.0,201608,200214.0
+2023,Brazil,imported_from,Paraguay,630392,"Curtains (including drapes) and interior blinds, curtain or bed valances; of synthetic fibres, not knitted or crocheted",kg,1629811.0,1629811.0,9068229,8925150.0
+2023,Brazil,imported_from,Paraguay,630491,"Furnishing articles; excluding those of heading no. 9404, n.e.c. in heading 6304, knitted or crocheted",kg,367424.0,367424.0,1529569,1524991.0
+2023,Brazil,imported_from,Paraguay,630492,"Furnishing articles; of cotton, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",kg,16.0,16.0,1097,1094.0
+2023,Brazil,imported_from,Paraguay,630493,"Furnishing articles; of synthetic fibres, not knitted or crocheted (excluding bedspreads and articles of heading no. 9404)",kg,830732.0,830732.0,3308506,3298961.0
+2023,Brazil,imported_from,Paraguay,630532,"Sacks and bags; of a kind used for the packing of goods, of man-made textile materials, flexible intermediate bulk containers",kg,79082.0,79082.0,687898,679721.0
+2023,Brazil,imported_from,Paraguay,630533,"Sacks and bags; of a kind used for the packing of goods, of man-made textile materials, of polyethylene or polypropylene strip or the like, not flexible intermediate bulk containers",kg,95470.0,95470.0,333710,328900.0
+2023,Brazil,imported_from,Paraguay,630629,Tents (including temporary canopies and similar articles); of textile materials other than synthetic fibres,kg,1393.0,1393.0,5546,5375.0
+2023,Brazil,imported_from,Paraguay,630720,Life-jackets and life-belts,kg,55.0,55.0,694,680.0
+2023,Brazil,imported_from,Paraguay,630790,"Textiles; made up articles (including dress patterns), n.e.c. in chapter 63, n.e.c. in heading no. 6307",kg,1612730.0,1612730.0,6171578,6103376.0
+2023,Brazil,imported_from,Paraguay,640220,"Footwear; with outer soles and uppers of rubber or plastics, upper straps or thongs assembled to the sole by plugs",2u,80.0,20.0,165,160.0
+2023,Brazil,imported_from,Paraguay,640291,"Footwear; n.e.c. in heading no. 6402, covering the ankle, with outer soles and uppers of rubber or plastics",2u,1344.0,1230.0,12243,12121.0
+2023,Brazil,imported_from,Paraguay,640299,"Footwear; n.e.c. in heading no. 6402, (other than just covering the ankle), with outer soles and uppers of rubber or plastics",2u,2056617.0,520784.0,1939245,1907884.0
+2023,Brazil,imported_from,Paraguay,640610,"Footwear; parts, uppers and parts thereof, other than stiffeners",kg,278935.0,278935.0,4131588,4108704.0
+2023,Brazil,imported_from,Paraguay,640690,"Footwear; parts, n.e.c. in heading 6406",kg,175304.0,175304.0,1042188,1028384.0
+2023,Brazil,imported_from,Paraguay,650500,"Hats and other headgear; knitted or crocheted, or made up from lace, felt or other textile fabric, in the piece (but not in strips), whether or not lined or trimmed; hair-nets of any material, whether or not lined or trimmed",kg,540877.0,540877.0,1919924,1898717.0
+2023,Brazil,imported_from,Paraguay,650610,"Headgear; safety, whether or not lined or trimmed",u,77550.0,48964.0,334934,328709.0
+2023,Brazil,imported_from,Paraguay,680421,"Millstones, grindstones, grinding wheels and the like; of agglomerated synthetic or natural diamond",kg,368.0,368.0,1380,1350.0
+2023,Brazil,imported_from,Paraguay,680422,"Millstones, grindstones, grinding wheels and the like; of other agglomerated abrasives or of ceramics",kg,17903.0,17903.0,104364,102756.0
+2023,Brazil,imported_from,Paraguay,680530,"Abrasive powder or grain; natural or artificial, on a base of materials n.e.c. in heading no. 6805, whether or not cut to shape or sewn or otherwise made up",kg,59136.0,59136.0,369746,367394.0
+2023,Brazil,imported_from,Paraguay,681091,"Cement, concrete or artificial stone; prefabricated structural components for building or civil engineering, whether or not reinforced",kg,909271.0,909271.0,136709,118157.0
+2023,Brazil,imported_from,Paraguay,690410,Ceramic building bricks,1000u,9052.249,20016050.0,733354,680253.0
+2023,Brazil,imported_from,Paraguay,700100,"Glass; cullet and other waste and scrap of glass, excluding glass from cathode ray tubes or other activated glass of heading 85.49, glass in the mass",kg,3360000.0,3360000.0,508623,451569.0
+2023,Brazil,imported_from,Paraguay,700719,"Glass; safety glass, toughened (tempered), (not of a size and shape suitable for incorporation in vehicles, aircraft, spacecraft or vessels)",m²,7831.0,157674.0,85048,83998.0
+2023,Brazil,imported_from,Paraguay,700729,"Glass; safety glass, laminated, (not of a size and shape suitable for incorporation in vehicles, aircraft, spacecraft or vessels)",m²,238146.0,4980407.0,3169064,3136464.0
+2023,Brazil,imported_from,Paraguay,701090,"Glass; carboys, bottles, flasks, jars, pots, phials and other containers of glass, (not ampoules), used for the conveyance or packing of goods",kg,7798753.0,7798753.0,6610598,6090150.0
+2023,Brazil,imported_from,Paraguay,701342,"Glassware of a kind used for table or kitchen purposes (not drinking glasses), of glass having a linear coefficient of expansion not exceeding 5 x 10 (to the minus 6), (or 0.000005) per Kelvin within a temperature range of 0-300 degrees C",kg,163121.0,163121.0,312625,309436.0
+2023,Brazil,imported_from,Paraguay,710310,"Stones; precious (other than diamonds) and semi-precious stones, unworked or simply sawn or roughly shaped, not strung, mounted or set",kg,32000.0,32000.0,18060,16160.0
+2023,Brazil,imported_from,Paraguay,720221,"Ferro-alloys; ferro-silicon, containing by weight more than 55% of silicon",kg,1207600.0,1207600.0,3668799,3611555.0
+2023,Brazil,imported_from,Paraguay,720229,"Ferro-alloys; ferro-silicon, containing by weight 55% or less of silicon",kg,2808250.0,2808250.0,6840145,6729703.0
+2023,Brazil,imported_from,Paraguay,720299,Ferro-alloys; n.e.c. in heading no. 7202,kg,28000.0,28000.0,90668,88832.0
+2023,Brazil,imported_from,Paraguay,720449,Ferrous waste and scrap; n.e.c. in heading no. 7204,kg,5914400.0,5914400.0,1798027,1711164.0
+2023,Brazil,imported_from,Paraguay,720711,"Iron or non-alloy steel; semi-finished products of iron or non-alloy steel; containing by weight less than 0.25% of carbon, of rectangular (including square) cross-section, width less than twice thickness",kg,56000.0,56000.0,37520,35836.0
+2023,Brazil,imported_from,Paraguay,730690,"Iron or steel (excluding cast iron); tubes, pipes and hollow profiles (not seamless), n.e.c. in chapter 73",kg,17249.0,17249.0,18905,18392.0
+2023,Brazil,imported_from,Paraguay,730719,"Iron or steel; cast fittings, other than of non-malleable cast iron",kg,3446.0,3446.0,4363,4301.0
+2023,Brazil,imported_from,Paraguay,730890,"Iron or steel; structures and parts thereof, n.e.c. in heading 7308",kg,18677.0,18677.0,9222,7609.0
+2023,Brazil,imported_from,Paraguay,731441,"Iron or steel wire; grill, netting and fencing, plated or coated with zinc",kg,375690.0,375690.0,499183,496760.0
+2023,Brazil,imported_from,Paraguay,731442,"Iron or steel wire; grill, netting and fencing, coated with plastic",kg,30087.0,30087.0,43432,43216.0
+2023,Brazil,imported_from,Paraguay,731815,"Iron or steel; threaded screws and bolts n.e.c. in item no. 7318.1, whether or not with their nuts or washers",kg,12.0,12.0,1769,1760.0
+2023,Brazil,imported_from,Paraguay,731821,Iron or steel; non-threaded spring washers and other lock washers,kg,2.0,2.0,215,214.0
+2023,Brazil,imported_from,Paraguay,731824,Iron or steel; non-threaded cotters and cotter-pins,kg,6.0,6.0,47,44.0
+2023,Brazil,imported_from,Paraguay,731829,"Iron or steel; non-threaded articles, n.e.c. in item no. 7318.2",kg,19.138,19.138,188,188.0
+2023,Brazil,imported_from,Paraguay,732090,Iron or steel; springs n.e.c. in heading no. 7320,kg,0.605,0.605,8,8.0
+2023,Brazil,imported_from,Paraguay,732219,"Radiators and parts thereof; for central heating, (not electrically heated), of iron or steel other than cast iron",kg,5.0,5.0,51,48.0
+2023,Brazil,imported_from,Paraguay,732399,"Iron or steel; table, kitchen and other household articles and parts thereof, of iron or steel n.e.c. in heading no. 7323",kg,20434.0,20434.0,174559,169692.0
+2023,Brazil,imported_from,Paraguay,732599,"Iron or steel; cast articles, excluding grinding balls and similar articles for mills, other than of non-malleable cast iron",kg,3400.0,3400.0,4450,4400.0
+2023,Brazil,imported_from,Paraguay,732619,"Iron or steel; articles n.e.c. in item no. 7326.11, forged or stamped, but not further worked",kg,5.0,5.0,20,17.0
+2023,Brazil,imported_from,Paraguay,732620,Iron or steel; wire articles,kg,1000.0,1000.0,2914,2900.0
+2023,Brazil,imported_from,Paraguay,732690,Iron or steel; articles n.e.c. in heading 7326,kg,105.0,105.0,3628,3539.0
+2023,Brazil,imported_from,Paraguay,740400,Copper; waste and scrap,kg,2830822.0,2830822.0,22067294,21676047.0
+2023,Brazil,imported_from,Paraguay,760200,Aluminium; waste and scrap,kg,20851583.0,20851583.0,36503667,35781819.0
+2023,Brazil,imported_from,Paraguay,760429,"Aluminium; alloys, bars, rods and profiles, other than hollow",kg,6.0,6.0,156,156.0
+2023,Brazil,imported_from,Paraguay,760711,"Aluminium; foil, (not backed), rolled (but not further worked), of a thickness not exceeding 0.2mm",kg,480368.0,480368.0,2606302,2579071.0
+2023,Brazil,imported_from,Paraguay,760900,"Aluminium; tube or pipe fittings (e.g. couplings, elbows, sleeves)",kg,283952.0,283952.0,2308294,2266199.0
+2023,Brazil,imported_from,Paraguay,761090,"Aluminium; structures (excluding prefabricated buildings of heading no. 9406) and parts of structures, n.e.c. in heading no. 7610, plates, rods, profiles, tubes and the like",kg,123.0,123.0,3182,3173.0
+2023,Brazil,imported_from,Paraguay,761290,"Aluminium; casks, drums, cans, boxes and the like for any material (not compressed or liquefied gas), 300l capacity or less, whether or not lined or heat-insulated, no mechanical or thermal equipment",kg,2.0,2.0,77,7.0
+2023,Brazil,imported_from,Paraguay,761610,"Aluminium; nails, tacks, staples (other than those of heading no. 8305), screws, bolts, nuts, screw hooks, rivets, cotters, cotter-pins, washers and similar articles",kg,3552.0,3552.0,27788,27262.0
+2023,Brazil,imported_from,Paraguay,761699,Aluminium; articles n.e.c. in heading 7616,kg,1667959.0,1667959.0,17328577,17215240.0
+2023,Brazil,imported_from,Paraguay,780110,"Lead; unwrought, refined",kg,4216000.0,4215210.0,9087263,9025439.0
+2023,Brazil,imported_from,Paraguay,820559,"Tools, hand; other hand tools (including glaziers diamonds), excluding household tools, drilling, threading or tapping tools, hammers and sledge hammers, planes, chisels, gouges and similar cutting tools for working wood, and screwdrivers",kg,28.0,28.0,81,80.0
+2023,Brazil,imported_from,Paraguay,820790,"Tools, interchangeable; (for machine or hand tools, whether or not power-operated), for screw-driving or uses n.e.c. in heading no. 8207",kg,5.499,5.499,53,47.0
+2023,Brazil,imported_from,Paraguay,821000,"Tools; hand-operated mechanical appliances, weighing 10kg or less, used in the preparation, conditioning or serving of food or drink",kg,89.0,89.0,317,302.0
+2023,Brazil,imported_from,Paraguay,821520,"Cutlery; sets of assorted articles (e.g. spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter knives, sugar tongs and similar), not plated with precious metal",kg,831.0,831.0,5665,5515.0
+2023,Brazil,imported_from,Paraguay,821599,Cutlery; other than plated with precious metal,kg,1234.0,1234.0,16477,16104.0
+2023,Brazil,imported_from,Paraguay,830120,"Locks; of a kind used for motor vehicles (key, combination or electrically operated), of base metal",kg,24.0,24.0,1192,1176.0
+2023,Brazil,imported_from,Paraguay,830160,"Locks; parts of padlocks, locks, clasps and frames with clasps incorporating locks, of base metal",kg,15.0,15.0,219,211.0
+2023,Brazil,imported_from,Paraguay,830210,"Hinges; suitable for furniture, doors, staircases, windows, blinds, coachwork, saddlery, trunks, chests, caskets or the like, of base metal",kg,6.0,6.0,73,70.0
+2023,Brazil,imported_from,Paraguay,830230,"Mountings, fittings and similar articles; for motor vehicles, of base metal",kg,24.0,24.0,1116,1101.0
+2023,Brazil,imported_from,Paraguay,830520,"Stationery; staples in strips, (e.g. for offices, upholstery, packaging), of base metal",kg,2677.0,2677.0,4152,4108.0
+2023,Brazil,imported_from,Paraguay,830990,"Stoppers; caps and lids, of base metal",kg,722005.0,722005.0,6786233,6737864.0
+2023,Brazil,imported_from,Paraguay,840991,"Engines; parts, suitable for use solely or principally with spark-ignition internal combustion piston engines (for other than aircraft)",kg,109.0,109.0,4848,4480.0
+2023,Brazil,imported_from,Paraguay,841229,"Engines; hydraulic power engines and motors, other than linear acting (cylinders)",u,8208.0,57484.0,964127,955050.0
+2023,Brazil,imported_from,Paraguay,841370,"Pumps; centrifugal, n.e.c. in heading no. 8413, for liquids",u,15747.0,15747.0,128896,127882.0
+2023,Brazil,imported_from,Paraguay,841391,Pumps; parts thereof,kg,775.0,775.0,7256,7118.0
+2023,Brazil,imported_from,Paraguay,841451,"Fans; table, floor, wall, window, ceiling or roof fans, with a self-contained electric motor of an output not exceeding 125W",u,2.0,20.0,1323,1310.0
+2023,Brazil,imported_from,Paraguay,841490,"Pumps and compressors; parts, of air or vacuum pumps, air or other gas compressors and fans, ventilating or recycling hoods incorporating a fan",kg,75.0,75.0,2560,2513.0
+2023,Brazil,imported_from,Paraguay,841861,Heat pumps; other than air conditioning machines of heading no. 8415,u,5275.0,7110.0,131324,129801.0
+2023,Brazil,imported_from,Paraguay,841950,Heat exchange units; not used for domestic purposes,u,212.0,212.0,3400,3150.0
+2023,Brazil,imported_from,Paraguay,842121,Machinery; for filtering or purifying water,u,310.0,2878.0,17175,16660.0
+2023,Brazil,imported_from,Paraguay,842199,Machinery; parts for filtering or purifying liquids or gases,kg,22.0,22.0,574,570.0
+2023,Brazil,imported_from,Paraguay,842230,"Machinery; for filling, closing, sealing, capsuling or labelling bottles, cans, bags or other containers, machinery for aerating beverages",u,1.0,5028.0,24500,24400.0
+2023,Brazil,imported_from,Paraguay,842330,"Weighing machines; constant weight scales and scales for discharging a predetermined weight of material into a bag or container, including hopper scales",u,17.0,42614.0,76800,76500.0
+2023,Brazil,imported_from,Paraguay,842810,Lifts and skip hoists,u,39.0,5660.0,7389,7225.0
+2023,Brazil,imported_from,Paraguay,842820,Elevators and conveyors; pneumatic,u,8.0,2808.0,13479,13400.0
+2023,Brazil,imported_from,Paraguay,842890,"Lifting, handling, loading or unloading machinery; n.e.c. in heading no. 8425, 8426, 8427 or 8428",u,30.0,147.0,1039,1013.0
+2023,Brazil,imported_from,Paraguay,843131,"Lifts, skip hoists or escalators; parts thereof",kg,4062.0,4062.0,8228,7916.0
+2023,Brazil,imported_from,Paraguay,843290,Machinery; parts of machinery for soil preparation or cultivation or for rollers for lawns or sports-grounds,kg,54220.0,54220.0,25203,23179.0
+2023,Brazil,imported_from,Paraguay,843390,"Harvesting machinery; parts, including parts of threshing machinery, straw or fodder balers and grass or hay mowers",kg,4449.0,4449.0,7598,7017.0
+2023,Brazil,imported_from,Paraguay,843790,"Machines; parts of those for cleaning, sorting or grading seed, grain or dried leguminous vegetables or for milling or working cereals or dried leguminous vegetables (not farm-type machinery)",kg,6904.0,6904.0,11902,11733.0
+2023,Brazil,imported_from,Paraguay,844391,"Printing machinery used for printing by means of plates, cylinders and other printing components of heading 8442; parts and accessories",kg,0.813,0.813,56,56.0
+2023,Brazil,imported_from,Paraguay,844520,Textile machinery; spinning machines,u,1.0,19910.0,28433,27570.0
+2023,Brazil,imported_from,Paraguay,844530,Textile machinery; doubling or twisting machines,u,3.0,29640.0,37155,35100.0
+2023,Brazil,imported_from,Paraguay,844540,Textile machinery; winding (including weft-winding) or reeling machines,u,1.0,9284.0,16256,15430.0
+2023,Brazil,imported_from,Paraguay,845811,"Lathes; for removing metal, horizontal, numerically controlled",u,2.0,5760.0,64473,63409.0
+2023,Brazil,imported_from,Paraguay,846694,"Machine-tools; parts and accessories, for the machines of heading no. 8462 or 8463, n.e.c. in heading no. 8466",kg,5.548,5.548,197,173.0
+2023,Brazil,imported_from,Paraguay,846890,"Machinery and apparatus; parts, soldering, brazing or welding, whether or not capable of cutting, parts thereof",kg,132.0,132.0,324,309.0
+2023,Brazil,imported_from,Paraguay,847730,"Machinery; blow moulding machines, for working rubber or plastics or for the manufacture of products from these materials",u,1.0,2897.0,9625,9500.0
+2023,Brazil,imported_from,Paraguay,847989,"Machines and mechanical appliances; having individual functions, n.e.c. or included in this chapter",u,1404.0,1586.0,21006,20480.0
+2023,Brazil,imported_from,Paraguay,848110,"Valves; pressure reducing, for pipes, boiler shells, tanks, vats or the like",kg,15010.0,15010.0,189509,188114.0
+2023,Brazil,imported_from,Paraguay,848140,"Valves; safety or relief valves, for pipes, boiler shells, tanks, vats or the like",kg,4.0,4.0,291,288.0
+2023,Brazil,imported_from,Paraguay,848180,"Taps, cocks, valves and similar appliances; for pipes, boiler shells, tanks, vats or the like, including thermostatically controlled valves",kg,1590.0,1590.0,24725,24432.0
+2023,Brazil,imported_from,Paraguay,848190,"Taps, cocks, valves and similar appliances; parts thereof",kg,33601.0,33601.0,255931,255395.0
+2023,Brazil,imported_from,Paraguay,848210,Ball bearings,u,32.0,8.794,120,105.0
+2023,Brazil,imported_from,Paraguay,848220,"Bearings; tapered roller bearings, including cone and tapered roller assemblies",u,50.0,25.0,2979,2835.0
+2023,Brazil,imported_from,Paraguay,848240,"Bearings; needle roller bearings, including cage and needle roller assemblies",u,6.0,1.0,981,799.0
+2023,Brazil,imported_from,Paraguay,848250,"Bearings; cylindrical roller bearings, including cage and roller assemblies n.e.c. in heading no. 8482",u,28.0,33.0,1585,1564.0
+2023,Brazil,imported_from,Paraguay,848299,"Bearings; parts, (other than balls, needles and rollers)",kg,10143.0,10143.0,395965,382342.0
+2023,Brazil,imported_from,Paraguay,848310,Transmission shafts (including cam shafts and crank shafts) and cranks,u,375.0,838.0,24382,23865.0
+2023,Brazil,imported_from,Paraguay,848320,"Bearing housings, incorporating ball or roller bearings",u,4.0,5.0,1239,1200.0
+2023,Brazil,imported_from,Paraguay,848340,"Gears and gearing; (not toothed wheels, chain sprockets and other transmission elements presented separately); ball or roller screws; gear boxes and other speed changers, including torque converters",u,953.0,1576.0,53535,52555.0
+2023,Brazil,imported_from,Paraguay,848350,"Pulleys and flywheels, including pulley blocks",u,732.0,559.0,13017,12717.0
+2023,Brazil,imported_from,Paraguay,848390,"Transmission components; toothed wheels, chain sprockets and other transmission elements presented separately; parts",kg,1408.0,1408.0,28280,27425.0
+2023,Brazil,imported_from,Paraguay,850110,Electric motors; of an output not exceeding 37.5W,u,65.0,144.0,14651,14040.0
+2023,Brazil,imported_from,Paraguay,850300,Electric motors and generators; parts suitable for use solely or principally with the machines of heading no. 8501 or 8502,kg,1847.0,1847.0,38776,37651.0
+2023,Brazil,imported_from,Paraguay,850440,Electrical static converters,u,90.0,65.0,13366,12680.0
+2023,Brazil,imported_from,Paraguay,850450,Electrical inductors; n.e.c. in heading no. 8504,u,161840.0,25754.0,301926,300236.0
+2023,Brazil,imported_from,Paraguay,850490,"Electrical transformers, static converters and inductors; parts thereof",kg,11.0,11.0,5109,5098.0
+2023,Brazil,imported_from,Paraguay,850760,"Electric accumulators; lithium-ion, including separators, whether or not rectangular (including square)",u,2.0,8.931,383,378.0
+2023,Brazil,imported_from,Paraguay,850940,"Electro-mechanical domestic appliances; food grinders and mixers, fruit or vegetable juice extractors, with self-contained electric motor",u,1170.0,585.0,1401,1322.0
+2023,Brazil,imported_from,Paraguay,851230,"Sound signalling equipment; electrical, used on cycles or motor vehicles (excluding articles of heading no. 8539)",u,2.0,0.192,4,4.0
+2023,Brazil,imported_from,Paraguay,851290,"Lighting or signalling equipment; electrical, (excluding articles of heading no. 8539), windscreen wipers, defrosters and demisters; parts, of those kinds used for cycles or motor vehicles",kg,9795.0,9795.0,712179,708875.0
+2023,Brazil,imported_from,Paraguay,851590,"Welding, brazing or soldering machines; parts of the machines of heading no. 8515",kg,802.0,802.0,10079,10019.0
+2023,Brazil,imported_from,Paraguay,851762,"Communication apparatus (excluding telephone sets or base stations); machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus",u,1.0,3.0,708,640.0
+2023,Brazil,imported_from,Paraguay,851890,"Microphones, headphones, earphones, amplifier equipment; parts of the equipment of heading no. 8518",kg,3136.0,3136.0,335293,330423.0
+2023,Brazil,imported_from,Paraguay,853610,"Electrical apparatus; fuses, for a voltage not exceeding 1000 volts",kg,96.0,96.0,3813,2408.0
+2023,Brazil,imported_from,Paraguay,853641,"Electrical apparatus; relays, (for a voltage not exceeding 60 volts)",kg,33.0,33.0,2381,1830.0
+2023,Brazil,imported_from,Paraguay,853650,"Electrical apparatus; switches n.e.c. in heading no. 8536, for a voltage not exceeding 1000 volts",kg,46.085,46.085,2481,2433.0
+2023,Brazil,imported_from,Paraguay,853690,"Electrical apparatus; n.e.c. in heading no. 8536, for switching or protecting electrical circuits, for a voltage not exceeding 1000 volts",kg,4018.0,4018.0,114576,90218.0
+2023,Brazil,imported_from,Paraguay,853710,"Boards, panels, consoles, desks and other bases; for electric control or the distribution of electricity, (other than switching apparatus of heading no. 8517), for a voltage not exceeding 1000 volts",kg,1.0,1.0,1174,1172.0
+2023,Brazil,imported_from,Paraguay,853810,"Electrical apparatus; parts (e.g. boards, panels, consoles, desks, cabinets, other bases), for goods of heading no. 8537, not equipped with their apparatus",kg,17985.673,17985.673,63647,61058.0
+2023,Brazil,imported_from,Paraguay,853890,"Electrical apparatus; parts suitable for use solely or principally with the apparatus of heading no. 8535, 8536 or 8537",kg,1844.392,1844.392,94765,75977.0
+2023,Brazil,imported_from,Paraguay,854110,"Electrical apparatus; diodes, other than photosensitive or light-emitting diodes (LED)",u,6400.0,9.0,8401,7616.0
+2023,Brazil,imported_from,Paraguay,854370,"Electrical machines and apparatus; having individual functions, not specified or included elsewhere in this chapter, n.e.c. in heading no. 8543",u,15.0,147.774,6279,6101.0
+2023,Brazil,imported_from,Paraguay,854430,"Insulated electric conductors; ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships",kg,10150146.408,10150146.408,221814075,219893319.0
+2023,Brazil,imported_from,Paraguay,854442,"Insulated electric conductors; for a voltage not exceeding 1000 volts, fitted with connectors",kg,646525.96,646525.96,4742775,4723622.0
+2023,Brazil,imported_from,Paraguay,854449,"Insulated electric conductors; for a voltage not exceeding 1000 volts, not fitted with connectors",kg,66829.601,66829.601,627461,614342.0
+2023,Brazil,imported_from,Paraguay,854999,Waste and scrap; n.e.c. in item no 8549.91,kg,16201.0,16201.0,6509,6219.0
+2023,Brazil,imported_from,Paraguay,870810,"Vehicles; bumpers and parts thereof, for the vehicles of heading no. 8701 to 8705",kg,15.0,15.0,20,10.0
+2023,Brazil,imported_from,Paraguay,870829,"Vehicles; parts and accessories, of bodies, other than safety seat belts",kg,39.0,39.0,793,300.0
+2023,Brazil,imported_from,Paraguay,870830,"Vehicle parts; brakes, servo-brakes and parts thereof",kg,11741.0,11741.0,240846,239548.0
+2023,Brazil,imported_from,Paraguay,870840,Vehicle parts; gear boxes and parts thereof,kg,104978.0,104978.0,1755127,1748796.0
+2023,Brazil,imported_from,Paraguay,870870,Vehicle parts; road wheels and parts and accessories thereof,kg,12.0,12.0,53,45.0
+2023,Brazil,imported_from,Paraguay,870880,Vehicle parts; suspension systems and parts thereof (including shock-absorbers),kg,576.0,576.0,2641,2607.0
+2023,Brazil,imported_from,Paraguay,870891,Vehicle parts; radiators and parts thereof,kg,146555.0,146555.0,1482826,1466293.0
+2023,Brazil,imported_from,Paraguay,870894,"Vehicle parts; steering wheels, steering columns and steering boxes; parts thereof",kg,2.0,2.0,26,25.0
+2023,Brazil,imported_from,Paraguay,870899,Vehicle parts and accessories; n.e.c. in heading no. 8708,kg,909.073,909.073,3001,2684.0
+2023,Brazil,imported_from,Paraguay,871160,"Motorcycles (including mopeds) and cycles; fitted with auxiliary motor, with electric motor for propulsion, with or without side-cars; side-cars",u,20.0,420.0,16669,16100.0
+2023,Brazil,imported_from,Paraguay,871410,Motorcycles (including mopeds); parts and accessories,kg,121238.0,121238.0,433450,431656.0
+2023,Brazil,imported_from,Paraguay,901831,"Medical, surgical instruments and appliances; syringes, with or without needles",u,484527800.0,3580311.0,15497176,15406492.0
+2023,Brazil,imported_from,Paraguay,901832,"Medical, surgical instruments and appliances; tubular metal needles and needles for sutures",kg,35103.0,35103.0,460175,458135.0
+2023,Brazil,imported_from,Paraguay,902610,Instruments and apparatus; for measuring or checking the flow or level of liquids,u,102.0,8.48,1279,1278.0
+2023,Brazil,imported_from,Paraguay,902620,Instruments and apparatus; for measuring or checking pressure,u,1.0,1.0,6,5.0
+2023,Brazil,imported_from,Paraguay,902910,"Meters and counters; revolution counters, production counters, taximeters, mileometers, pedometers and the like",u,2.0,7.204,1064,1063.0
+2023,Brazil,imported_from,Paraguay,903120,Test benches,u,1065.0,1231.0,216170,213045.0
+2023,Brazil,imported_from,Paraguay,903180,"Instruments, appliances and machines; for measuring or checking n.e.c. in chapter 90",u,9.0,4.0,1014,941.0
+2023,Brazil,imported_from,Paraguay,903190,"Instruments, appliances and machines; parts and accessories for those measuring or checking devices of heading no. 9031",kg,3948.0,3948.0,786054,773698.0
+2023,Brazil,imported_from,Paraguay,920710,"Musical instruments; keyboard, (other than accordions), the sound of which is produced or must be amplified electrically",u,28.0,808.0,13295,13200.0
+2023,Brazil,imported_from,Paraguay,920991,Musical instruments; parts and accessories for pianos,kg,400.0,400.0,391,352.0
+2023,Brazil,imported_from,Paraguay,920994,"Musical instruments; parts and accessories for the musical instruments the sound of which is produced or must be amplified electrically (e.g. organs, guitars and accordions)",kg,43105.0,43105.0,69574,65908.0
+2023,Brazil,imported_from,Paraguay,940169,"Seats; with wooden frames, not upholstered, (excluding medical, surgical, dental, veterinary or barber furniture)",u,7392.0,25413.0,47382,46866.0
+2023,Brazil,imported_from,Paraguay,940179,"Seats; with metal frames, not upholstered, (excluding medical, surgical, dental, veterinary or barber furniture)",u,67222.0,233317.0,477831,465141.0
+2023,Brazil,imported_from,Paraguay,940180,"Seats; n.e.c. in heading no. 9401, (excluding medical, surgical, dental, veterinary or barber furniture)",u,307161.0,890219.0,1414514,1380709.0
+2023,Brazil,imported_from,Paraguay,940199,"Seats; parts, (of other than wood) for use in the assembly of motor vehicles as determined by the minister",kg,557205.0,557205.0,1609208,1594608.0
+2023,Brazil,imported_from,Paraguay,940320,"Furniture; metal, other than for office use",kg,1120.0,1120.0,165,11.0
+2023,Brazil,imported_from,Paraguay,940340,"Furniture; wooden, for kitchen use",u,1.0,1570.0,2293,2120.0
+2023,Brazil,imported_from,Paraguay,940360,"Furniture; wooden, other than for office, kitchen or bedroom use",u,3.0,1550.0,1073,1030.0
+2023,Brazil,imported_from,Paraguay,940370,Furniture; plastic,kg,97452.0,97452.0,137686,134316.0
+2023,Brazil,imported_from,Paraguay,940399,"Furniture; parts, of other than wood",kg,4271.0,4271.0,46643,46135.0
+2023,Brazil,imported_from,Paraguay,940440,"Quilts, bedspreads, eiderdowns and duvets (comforters)",u,38512.336,265747.0,1039650,1019593.0
+2023,Brazil,imported_from,Paraguay,940490,"Bedding and similar furnishing articles; n.e.c. in heading no. 9404 (e.g. quilts, eiderdowns, cushions, pouffes and pillows)",kg,322696.0,322696.0,1356163,1350337.0
+2023,Brazil,imported_from,Paraguay,940511,"Luminaires and light fittings; chandeliers and electric ceiling or wall light fittings; (excluding those used for lighting public open spaces or thoroughfares), for use solely with light-emitting diode (LED) light sources",kg,1472.0,1472.0,11342,11052.0
+2023,Brazil,imported_from,Paraguay,950300,"Tricycles, scooters, pedal cars and similar wheeled toys; dolls' carriages; dolls; other toys; reduced-size (scale) models and similar recreational models, working or not; puzzles of all kinds",kg,556523.0,556523.0,3107238,3083217.0
+2023,Brazil,imported_from,Paraguay,950691,Athletics and gymnastics equipment,kg,19621.0,19621.0,174585,173785.0
+2023,Brazil,imported_from,Paraguay,950699,Equipment for outdoor games and recreation n.e.c. in heading no. 9506,u,11168.0,919.0,39084,38758.0
+2023,Brazil,imported_from,Paraguay,950710,Fishing rods,u,113804.0,25120.0,805489,795478.0
+2023,Brazil,imported_from,Paraguay,950822,"Amusement park rides and water park amusements; carousels, swings and roundabouts",kg,3706.0,3706.0,10581,10450.0
+2023,Brazil,imported_from,Paraguay,950829,"Amusement park rides and water park amusements; other than roller coasters, carousels, swings, roundabouts, dodge'em cars, motion simulators and moving theatres, water rides and water park amusements",kg,802.0,802.0,2401,2358.0
+2023,Brazil,imported_from,Paraguay,960350,"Brushes; constituting parts of machines, appliances or vehicles",u,2.0,100.0,2820,2750.0
+2023,Brazil,imported_from,Paraguay,960390,"Brooms, brushes, mops, feather dusters, squeegees, hand operated mechanical floor sweepers; (not motorised), prepared knots and tufts for brooms or brush making n.e.c.",u,227239.0,222937.0,970791,954776.0
+2023,Brazil,imported_from,Paraguay,960711,Slide fasteners; fitted with chain scoops of base metal,kg,95679.0,95679.0,305714,302419.0
+2023,Brazil,imported_from,Paraguay,960719,Slide fasteners; other than those fitted with chain scoops of base metal,kg,553771.0,553771.0,1428127,1408886.0
+2023,Brazil,imported_from,Paraguay,960720,Slide fasteners; parts,kg,222643.0,222643.0,596432,588970.0
+2023,Brazil,imported_from,Paraguay,960990,"Pastels, drawing charcoals, writing or drawing chalks, tailors' chalk",kg,16508.0,16508.0,52108,51695.0
